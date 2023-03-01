@@ -17,6 +17,8 @@ cd client
 hz client --idl=../idl/psm.thrift --model_dir=hertz_gen -t=template=slim --client_dir=hz_client
 ```
 
+## create file `main.go` in client
+
 ## run
 - server<br>
 ```
